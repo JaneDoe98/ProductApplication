@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css"; 
+
+body{
+    background-color: rgb(95, 143, 182);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }

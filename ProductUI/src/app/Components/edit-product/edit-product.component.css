@@ -1,0 +1,12 @@
+form{
+    width: 50%;
+}
+
+button{
+    margin: 10px;
+    width: 30%;
+}
+
+#btn-cancel{
+    float: right;
+}
