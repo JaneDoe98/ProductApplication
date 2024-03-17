@@ -26,7 +26,7 @@
 
 6. Open ProductAPI.sln file with Visual Studio and run the API (press 'F5'), a Swagger webpage should open.
 
-7. Open ProductApplication/ProductAPI folder in Visual Studio Code and run the application:
+7. Open ProductApplication/ProductUI folder in Visual Studio Code and run the application:
 ```
     ng serve
 ```
